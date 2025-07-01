@@ -13,7 +13,8 @@ This project presents a data analysis of Olympic Games history from 1896 to 2016
 
 ![Olympic Games Dashboard]
 
-![image](https://github.com/user-attachments/assets/3a9157b3-2473-4414-bf11-30433b1489be)
+![image](https://github.com/user-attachments/assets/6de262d4-04ad-47b1-a233-62e5e2805d78)
+
 
 
 > 🖥️ To view the dashboard, open the `.pbix` file in [Power BI Desktop](https://powerbi.microsoft.com/en-us/downloads/).
