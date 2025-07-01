@@ -64,6 +64,6 @@ Olympic-Games-dashboard/
 
 ## 🤝 Let's Connect!
 
-If you found this project interesting or useful, feel free to ⭐ the repo or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/).
+If you found this project interesting or useful, feel free to ⭐ the repo or connect with me on [LinkedIn](https://www.linkedin.com/in/aprohith/).
 
 ---
