@@ -1,5 +1,3 @@
-# Olympic-Games-dashboard
-
 # 🏅 Olympic Games Data Analysis & Dashboard (1896–2016)
 
 This project presents a data analysis of Olympic Games history from 1896 to 2016, visualized through a dynamic Power BI dashboard. It explores trends in athlete participation, country performance, gender distribution, and medal counts across all modern Olympic games.
